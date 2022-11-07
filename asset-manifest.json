@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vacationPay/static/css/main.dc181813.chunk.css",
+    "main.js": "/vacationPay/static/js/main.89e7d81a.chunk.js",
+    "main.js.map": "/vacationPay/static/js/main.89e7d81a.chunk.js.map",
+    "runtime-main.js": "/vacationPay/static/js/runtime-main.87332986.js",
+    "runtime-main.js.map": "/vacationPay/static/js/runtime-main.87332986.js.map",
+    "static/js/2.89b22e9b.chunk.js": "/vacationPay/static/js/2.89b22e9b.chunk.js",
+    "static/js/2.89b22e9b.chunk.js.map": "/vacationPay/static/js/2.89b22e9b.chunk.js.map",
+    "index.html": "/vacationPay/index.html",
+    "static/css/main.dc181813.chunk.css.map": "/vacationPay/static/css/main.dc181813.chunk.css.map",
+    "static/js/2.89b22e9b.chunk.js.LICENSE.txt": "/vacationPay/static/js/2.89b22e9b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87332986.js",
+    "static/js/2.89b22e9b.chunk.js",
+    "static/css/main.dc181813.chunk.css",
+    "static/js/main.89e7d81a.chunk.js"
+  ]
+}
